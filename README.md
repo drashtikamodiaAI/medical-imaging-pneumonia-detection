@@ -119,6 +119,8 @@ medical-imaging-pneumonia-detection/
 ---
 
 ## 💻 Streamlit Web App
+<img width="1887" height="866" alt="image" src="https://github.com/user-attachments/assets/d19d390c-f4c0-4259-ab54-28e30aaca34a" />
+
 
 The application allows users to:
 
